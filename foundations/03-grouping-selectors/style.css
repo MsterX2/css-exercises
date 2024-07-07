@@ -1,0 +1,15 @@
+.buttonOk,
+.buttonNoOk {
+    font-size: 28px;
+    font-family: 'Times New Roman', 'Helvetica', 'sans-serif';
+}
+
+.buttonOk {
+    background-color: black;
+    color: white;
+    font: weight, bold;
+}
+
+.buttonNoOk {
+    background-color: yellow;
+}
