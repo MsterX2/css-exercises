@@ -1,13 +1,13 @@
 .buttonOk,
 .buttonNoOk {
     font-size: 28px;
-    font-family: 'Times New Roman', 'Helvetica', 'sans-serif';
+    font-family: Helvetica, 'Times New Roman', sans-serif;
 }
 
 .buttonOk {
     background-color: black;
     color: white;
-    font: weight, bold;
+    font-weight: bold;
 }
 
 .buttonNoOk {
